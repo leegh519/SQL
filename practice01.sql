@@ -71,3 +71,24 @@ AND salary NOT IN(2500, 3000, 7000);
 SELECT last_name, salary, commission_pct
 FROM employees
 WHERE commission_pct = 0.2;
+
+SELECT sysdate, current_date
+FROM dual;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
